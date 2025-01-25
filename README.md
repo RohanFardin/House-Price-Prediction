@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Predicting house price by using Random Forest technique
+House Price Prediction Using Random Forest: A Machine Learning Repository
